@@ -40,34 +40,34 @@ font-size :18px;
 }
 
 /*
-margin / jarak luar / njabi (nj)
-padding / jarak dalam / ndalem (nd)
+margin / jarak luar / njabi (jb)
+padding / jarak dalam / lebet (lb)
 */
 
 /*Margin*/
-.nj-0 {margin:0}
-.nj-1 {margin:1}
-.nj-2 {margin:2}
-.nj-3 {margin:3}
-.nj-4 {margin:4}
-.nj-5 {margin:5}
-.nj-6 {margin:6}
-.nj-7 {margin:7}
-.nj-8 {margin:8}
-.nj-9 {margin:9}
-.nj-10 {margin:10}
+.jb-0 {margin:0}
+.jb-1 {margin:1}
+.jb-2 {margin:2}
+.jb-3 {margin:3}
+.jb-4 {margin:4}
+.jb-5 {margin:5}
+.jb-6 {margin:6}
+.jb-7 {margin:7}
+.jb-8 {margin:8}
+.jb-9 {margin:9}
+.jb-10 {margin:10}
 /*Padding*/
-.nd-0 {margin:0}
-.nd-1 {margin:1}
-.nd-2 {margin:2}
-.nd-3 {margin:3}
-.nd-4 {margin:4}
-.nd-5 {margin:5}
-.nd-6 {margin:6}
-.nd-7 {margin:7}
-.nd-8 {margin:8}
-.nd-9 {margin:9}
-.nd-10 {margin:10}
+.lb-0 {padding:0}
+.lb-1 {padding:1}
+.lb-2 {padding:2}
+.lb-3 {padding:3}
+.lb-4 {padding:4}
+.lb-5 {padding:5}
+.lb-6 {padding:6}
+.lb-7 {padding:7}
+.lb-8 {padding:8}
+.lb-9 {padding:9}
+.lb-10 {padding:10}
 
 /*
 border / batas / bates / wates (w)
