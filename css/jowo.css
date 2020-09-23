@@ -4,3 +4,17 @@ font-size :14px;
 .ageng {
 font-size :18px;
 }
+/*
+margin : batas luar : bl
+padding : batas dalam : bd
+border : batas garis : bg
+duwur : d
+nisor : n
+kiwo : k
+tengen : t
+nomer : 1siji,2loro,3telu,7pituh
+13st,17sp,21ls,23lt,27lp,31ts,32tl,33tt,37tp
+*/
+.bl-d-s{
+  margin :1px;
+  }
