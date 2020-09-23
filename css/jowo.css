@@ -1,20 +1,89 @@
+/*
+t : Tulisan
+j : Judul
+*/
+
+/*
+Posisi Huruf
+t : tengen (rata kanan)
+k : kiwo (rata kiri)
+p : rata tengah (pas tengah2)
+r : rata kanan-kiri (roto)
+*/
+
+.t {
+  text-align :right;
+}
+.k {
+  text-align :left;/*kiri*/
+}
+.p {
+  text-align :center;
+}
+.r {
+  text-align :justify;
+}
+
+/*cungkring vs Gendut*/
+.gendut {
+  text-weght : bold;
+}
+.cungkring {
+  text-weight :normal;
+}
+
 .alit {
 font-size :14px;
 }
 .ageng {
 font-size :18px;
 }
+
 /*
-margin : batas luar : bl
-padding : batas dalam : bd
-border : batas garis : bg
-duwur : d
-nisor : n
-kiwo : k
-tengen : t
-nomer : 1siji,2loro,3telu,7pituh
-13st,17sp,21ls,23lt,27lp,31ts,32tl,33tt,37tp
+margin / jarak luar / njabi (nj)
+padding / jarak dalam / ndalem (nd)
 */
-.bl-d-s{
-  margin :1px;
-  }
+
+/*Margin*/
+.nj-0 {margin:0}
+.nj-1 {margin:1}
+.nj-2 {margin:2}
+.nj-3 {margin:3}
+.nj-4 {margin:4}
+.nj-5 {margin:5}
+.nj-6 {margin:6}
+.nj-7 {margin:7}
+.nj-8 {margin:8}
+.nj-9 {margin:9}
+.nj-10 {margin:10}
+/*Padding*/
+.nd-0 {margin:0}
+.nd-1 {margin:1}
+.nd-2 {margin:2}
+.nd-3 {margin:3}
+.nd-4 {margin:4}
+.nd-5 {margin:5}
+.nd-6 {margin:6}
+.nd-7 {margin:7}
+.nd-8 {margin:8}
+.nd-9 {margin:9}
+.nd-10 {margin:10}
+
+/*
+border / batas / bates / wates (w)
+dhuwur (d) / nisor (n) / kiwo (k) tengen (t)
+*/
+
+.w { border :1px;}
+.w-d { border-top :1px;}
+.w-n { border-bottom :1px;}
+.w-k { border-left :1px;}
+.w-t { border-right :1px;}
+
+
+
+
+
+
+
+
