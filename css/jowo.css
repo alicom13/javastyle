@@ -80,10 +80,13 @@ dhuwur (d) / nisor (n) / kiwo (k) tengen (t)
 .w-k { border-left :1px;}
 .w-t { border-right :1px;}
 
-
-
-
-
-
-
-
+/*
+warna primer (merah, biru, dan kuning)
+warna sekunder (orange, ungu dan hijau)
+*/
+.abang {background :red;}
+.biru {background :blue;}
+.kuning {background :yellow;}
+.oreng {background :orange;}
+.ungu {background :purple;}
+.ijo {background :green;}
