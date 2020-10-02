@@ -1,0 +1,32 @@
+.pricingTable{
+    background: #fff;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 30px 30px 70px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px -8px rgba(0,0,0,0.5);
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+.pricingTable:before,
+.pricingTable:after{
+    content: "";
+    background-color: #F4F5F9;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    position: absolute;
+    top: -213px;
+    right: -213px;
+    z-index: -1;
+}
+.pricingTable:after{
+    background-color: #FE5F85;
+    height: 300px;
+    width: 300px;
+    top: auto;
+    bottom: -210px;
+    right: auto;
+    left: -160px;
+}
