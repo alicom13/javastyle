@@ -30,3 +30,28 @@
     right: auto;
     left: -160px;
 }
+.pricingTable .title{
+    color: #1A2A3A;
+    font-size: 33px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+}
+.pricingTable .title:before{
+    content: "";
+    background-color: #1A2A3A;
+    width: 65px;
+    height: 3px;
+    margin: 0 auto 20px;
+    display: block;
+    clear: both;
+}
+.pricingTable .price-value{
+    color: #fff;
+    background-color: #FE5F85;
+    width: 160px;
+    height: 160px;
+    padding: 57px 0 0;
+    margin: 0 auto 25px;
+    border-radius: 50%;
+}
